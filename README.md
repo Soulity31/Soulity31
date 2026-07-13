@@ -1,2 +1,4 @@
 ### Hello World, Its me Shaurya 👋
-Data analyst and Self Learnt Programmer
+##My roles -
+**Data Analyst and Self Learning Programmer**
+
